@@ -18,7 +18,6 @@ class SimpleAIBrain:
         self.responses = {
             'greetings': ['Hello! Sir, I am ready to assist you.', 'Hi sir, I am ready to assist you.', 'Hello Sir, I am ready to assist you.'],
             'weather': ['The weather is nice today.', 'It looks like rain.'],
-            'vikas' : ['mahadarchood', 'bahan ka lauda', 'maan kee choot ooye'],
             'my friends name' : ['vikas kumar, kushagra', 'pradeep'],
             ' what is google': [' Google is a search engine that allows users to search for information on the World Wide Web.'],
             'your owner' : [ 'Abhii.. Abhishek', 'Bhanu Pratap Singh'],
@@ -127,3 +126,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
